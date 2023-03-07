@@ -10,4 +10,6 @@ class MathematicalOperations {
 
   val substractor : (Int , Int) => (Int) = (number: Int, number2: Int) => number - number2
 
+  val mixedform: (Int, Int) => String = (number : Int, number2: Int) => number * number2 + " Multiplied "
+
 }

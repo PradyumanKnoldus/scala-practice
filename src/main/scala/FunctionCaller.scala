@@ -19,6 +19,8 @@ object FunctionCaller extends App {
   println(mathOperationObject.substractor(5,5))
   println(mathOperationObject.square(5))
   println(mathOperationObject.cube(5))
+  println(mathOperationObject.mixedform(5,6))
+
 
   //------------------------------------------------------------------//
 
