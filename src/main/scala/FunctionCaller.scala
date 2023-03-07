@@ -1,5 +1,7 @@
 object FunctionCaller extends App {
 
+  new HelloScalaWorld()
+
   //------------------------------------------------------------------//
 
   val stringCheckerObject = new StringChecker()
