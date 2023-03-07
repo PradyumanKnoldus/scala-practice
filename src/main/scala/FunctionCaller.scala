@@ -24,6 +24,10 @@ object FunctionCaller extends App {
 
   //------------------------------------------------------------------//
 
+  val myArray = Array(1, 2, 3, 4, 5)
+  val arrayProductObject = new ArrayProduct(myArray)
+  println(arrayProductObject.print())
+
   //------------------------------------------------------------------//
 
 
